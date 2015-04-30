@@ -1,1 +1,2 @@
 This is a test of the commit thing.
+This file has been edited.
